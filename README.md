@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ASPNET CORE (C#), React.**
 
-- 👨‍💻 I'm working now as a**Community Manager**
+- 👨‍💻 I'm working now as a **Community Manager**
 
 - 👨‍💻 All of my projects are available at [https://github.com/heusaizz?tab=repositories](https://github.com/heusaizz?tab=repositories)
 
