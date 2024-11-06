@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santino Gutierrez (Heusaizz)</h1>
+<h1 align="center">Hi👋, I'm Santino Gutierrez (Heusaizz)</h1>
 <h3 align="center">Student at UTN FRRO and upcoming developer from Argentina.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heusaizz&label=Profile%20views&color=0e75b6&style=flat" alt="heusaizz" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ASPNET CORE (C#), React.**
 
-- 👨‍💻 I'm working now as **Community Manager (While Studying)**
+- 👨‍💻 I'm working now as a**Community Manager**
 
 - 👨‍💻 All of my projects are available at [https://github.com/heusaizz?tab=repositories](https://github.com/heusaizz?tab=repositories)
 
