@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heusaizz&label=Profile%20views&color=0e75b6&style=flat" alt="heusaizz" /> </p>
 
-- 🔭 I’m currently working on [Fake Sysacad API (Academic system)](https://github.com/Martinez17s/Prog3TPI)
-
 - 🌱 I’m currently learning **ASPNET CORE (C#), React.**
 
 - 👨‍💻 I'm working now as a **Community Manager**
